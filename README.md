@@ -1,15 +1,12 @@
-
 ## Exploratory Data Analysis
 ### Course Project 1
 
-. To run this script, please do the following:
+This is my repository for the Coursera Course "Exploratory Data Analysis".
 
- * Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to a local directory
- * Download 
+To run this script, please do the following:
 
-the data from https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
- * Extract the data into the 
-
-./Data subdirectory
+ * Download the scripts (plit1.R, plot2.R, plot3.R, plot4.R) to a local directory
+ * Download the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+ * Extract the data into the ./Data subdirectory
  * Run the scripts
 
